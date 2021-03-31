@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my mind...
+- 🌱 I’m forever currently learning React and laravel LoL
+
 <!--
 **robson-hennes/robson-hennes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
