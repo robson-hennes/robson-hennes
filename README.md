@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my mind...
-- 🌱 I’m forever currently learning React and laravel LoL.
+- 🌱 I’m forever currently learning Dart/Flutter and laravel LoL.
 - 🎸 I'm a guitar player too, I love music and art.
 
 <!--
